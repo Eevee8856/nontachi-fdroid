@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1597042859000,
+    "timestamp": 1597048612000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -761,6 +761,30 @@
       }
     ],
     "com.yihengquan.gogoanime": [
+      {
+        "added": 1593541199000,
+        "apkName": "com.yihengquan.gogoanime_v1.2.1_3.apk",
+        "hash": "699a3742d08e8686997c8dcdcf68b3be5a5897b9ffc1d085136a55906f240d33",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.yihengquan.gogoanime",
+        "sig": "0340aa9cc2cf98487881a52c439b5c37",
+        "signer": "4c644ecdd02803d0a441e4b2704ca3ababac9be6aab77c3d39e55e53db051c74",
+        "size": 14474463,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 3,
+        "versionName": "1.2.1"
+      },
       {
         "added": 1593541199000,
         "apkName": "com.yihengquan.gogoanime_v1.2.1_3.apk",
