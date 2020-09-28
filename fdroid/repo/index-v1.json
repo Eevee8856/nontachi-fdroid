@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1601319644000,
+    "timestamp": 1601334042000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://animanga.cloud.efreakbnc.net/fdroid/repo",
       "https://animanga.netlify.com/fdroid/repo",
-      "https://raw.githubusercontent.com/Efreak/nontachi-fdroid/master/fdroid/repo",
       "https://efreak.gitlab.io/nontachi-fdroid/fdroid/repo",
-      "https://gitlab.com/efreak/nontachi-fdroid/raw/master/fdroid/repo"
+      "https://gitlab.com/efreak/nontachi-fdroid/raw/master/fdroid/repo",
+      "https://raw.githubusercontent.com/Efreak/nontachi-fdroid/master/fdroid/repo"
     ]
   },
   "requests": {
